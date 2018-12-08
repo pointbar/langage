@@ -18,5 +18,5 @@ Le langage contribue à former la vision du monde de chaque humain.e et affecten
 - mode impératif
 - Généralités
 - Pas le temps
-  
+- urgent
   
