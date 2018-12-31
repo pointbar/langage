@@ -15,8 +15,14 @@ Le langage contribue à former la vision du monde de chaque humain.e et affecten
 - Formulations impersonnées
   - "il faut"
   - "L'idée est que" 
+  - "on devrait/pourrait"
 - mode impératif
 - Généralités
 - Pas le temps
 - urgent
-  
+
+## Quelques éléments de langages qui grattent et qui ne sont pas encore rangées dans Vrac
+
+- "Le problème c'est que ..."
+- les mots qui se terminent en *ment : honnêtement, hautement, vraiment, ...
+- Les gens sont ...
